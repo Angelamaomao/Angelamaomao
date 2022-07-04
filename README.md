@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-mao-dan) 
 ## Portfolio Projects
 - [Bml-fec](https://github.com/Blue-Mountain-Lightning/bml-fec) (Front End)
-- [Atelier Systems Design](https://github.com/SDC-Team-Eight/Q-A) (Back End)
+- [Q-A](https://github.com/SDC-Team-Eight/Q-A) (Back End)
 - [Gopher](https://github.com/blueocean-rico/gopher) (Full Stack)
 
 ## TECHNICAL SKILLS
